@@ -4,6 +4,8 @@
 
 请在 `notebook/` 目录下启动 Jupyter / VS Code，确保工作目录就是本目录，这样相对路径（`../model`、`./toydata`）才能对上。
 
+按天学习请看 [LEARNING.md](./LEARNING.md)。
+
 ## 阅读顺序
 
 | 笔记本 | 对应主线 | 说明 |
